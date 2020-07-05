@@ -4,15 +4,10 @@ Built decision tree classifier using Python (scikit-learn) to impove bank telema
 Used Jupyter Notebooks to demo this project to Analytics Team at Urban Outfitters, Inc, highlighting the results and how they can be useful to an actual bank.
 
 ## Prerequisites
-Jupyter Notebook
+`brew install jupyter`
 
 Python libraries:
-- sklearn
-- pandas
-- numpy
-- matplotlib
-- seaborn
-- pydotplus
+`pip install sklearn pandas numpy matplotlib seaborn pydotplus`
 
 Data source:
 - UCI Machine Learning Reporitory ( https://archive.ics.uci.edu/ml/datasets/bank+marketing )
